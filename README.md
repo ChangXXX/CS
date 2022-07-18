@@ -1,6 +1,6 @@
 # DataStructure
 
-## 배열
+## [배열](https://github.com/ChangXXX/DataStructure/tree/main/%EB%B0%B0%EC%97%B4)
 
 ## 스택과 큐
 
