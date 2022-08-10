@@ -4,9 +4,7 @@
 
 ## [스택과 큐](https://github.com/ChangXXX/DataStructure/tree/main/%EC%8A%A4%ED%83%9D%EA%B3%BC%ED%81%90)
 
-## 연결 리스트
-
-## 트리
+## [트리](https://github.com/ChangXXX/DataStructure/tree/main/트리)
 
 ## 그래프
 
