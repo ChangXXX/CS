@@ -6,7 +6,7 @@
 
 ## [트리](https://github.com/ChangXXX/DataStructure/tree/main/트리)
 
-## 그래프
+## [그래프](https://github.com/ChangXXX/DataStructure/tree/main/그래프)
 
 ## 정렬
 
