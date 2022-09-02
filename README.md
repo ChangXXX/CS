@@ -8,14 +8,6 @@
 
 ## [그래프](https://github.com/ChangXXX/DataStructure/tree/main/그래프)
 
+## [해싱](https://github.com/ChangXXX/DataStructure/tree/main/HashTable)
+
 ## 정렬
-
-## 해싱
-
-## 우선순위 큐
-
-## 효율적 이원탐색 트리
-
-## 다원 탐색 트리
-
-## 디지털 탐색 구조
